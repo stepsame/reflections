@@ -3,3 +3,18 @@ a .git folder was created,because I want to use version control system
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area's file will be tracked and will be commit at once,the file's name
+
+How can you use the staging area to make sure you have one commit per logical change?
+you can add all files in one logical change into the staging area,then commit it.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you need to test a experimental features,or another type of version.Different branches has different history of commit.
+
+How do the diagrams help you visualize the branch structure?
+you can easily easy the branch of the commit
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+this is a new commit include two branches.because it is meaningful.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros git can merge fast when there is not conflicts,cons are you need to resolve confflicts yourself.
