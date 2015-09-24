@@ -6,3 +6,6 @@ Because sometimes pull changes may make conflicts
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks is in the github just like clone,branches are in one repository.When I want to tell Github user I use fork.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Beacuse you can easily merge when local repository is different from remote repository.
