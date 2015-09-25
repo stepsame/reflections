@@ -9,3 +9,6 @@ forks is in the github just like clone,branches are in one repository.When I wan
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Beacuse you can easily merge when local repository is different from remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+svn,must on line,work in your worksapce will not be saved.
