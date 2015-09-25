@@ -12,3 +12,6 @@ Beacuse you can easily merge when local repository is different from remote repo
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 svn,must on line,work in your worksapce will not be saved.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when you want to make a pull request to others, you need to create a new branch,the benefit is your pull request can still update and the master can still update until the final property merge.
